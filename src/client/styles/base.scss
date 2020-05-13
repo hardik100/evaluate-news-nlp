@@ -1,0 +1,24 @@
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    background-color: whitesmoke;
+    background-image: url('https://www.rdi-lb.tv/wp-content/uploads/2014/09/1281_1365455012.jpg');
+}
+
+
+main {
+    flex: 2;
+}
+
+section {
+    max-width: 800px;
+    margin: 50px auto;
+    
+}
+
+section {
+    h2,h3,p{
+        color: black;
+    }
+}
